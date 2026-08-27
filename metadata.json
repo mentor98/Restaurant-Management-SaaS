@@ -1,0 +1,6 @@
+{
+  "name": "SavoryOS Restaurant Management SaaS",
+  "description": "Full-stack multi-branch restaurant operations platform featuring POS, Kitchen Display System (KDS), table management, menu & recipe inventory, reservations, customer CRM, live analytics, and role-based staff access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
